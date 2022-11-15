@@ -3,6 +3,10 @@
     "name": "generic survival",
     "address": ["212.192.29.92:25554"]
   },
+  { 
+    "name": "AYOORus", 
+    "address": ["144.76.57.59:9725"] 
+  },
   {
     "name": "Mindustry Español",
     "address": ["mes.xpdustry.fr"]
